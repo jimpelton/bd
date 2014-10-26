@@ -1,0 +1,12 @@
+
+*.cmake
+CMakeCache.txt
+Makefile
+
+*CMakeFiles/
+*bin/
+*lib/
+
+*.so
+
+*.swp
